@@ -29,5 +29,4 @@
   @empty
     <h4 class="font-italic alert-secondary p-2 rounded text-center">Empty Notebook</h4>
   @endforelse
-
 @endsection
